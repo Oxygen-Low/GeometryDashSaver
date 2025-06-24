@@ -1,5 +1,5 @@
 # GeometryDashSaver
-A geometry dash local save manager.
+A geometry dash local (and OneDrive) save manager.
 # This needs OneDrive to work.
 This uses OneDrive to save the files across multiple computers.
 
